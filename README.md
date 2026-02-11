@@ -130,7 +130,7 @@ h1{
     <source src="golden-brown.mp3" type="audio/mpeg">
 </audio>
 
-<button class="boton-musica" onclick="reproducirMusica()">🎵 Reproducir Golden Brown</button>
+<button class="boton-musica" onclick="reproducirMusica()">🎵 Reproducir </button>
 
 <script>
 function abrirCarta(){
